@@ -108,7 +108,7 @@ npm run deploy
 
 ## Usage
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: React
 - **Styling**: BulmaCSS
@@ -116,7 +116,7 @@ npm run deploy
 - **Build Tool**: Create-React-App
 - **Deployment**: Static hosting (GitHub Pages, Netlify, etc.)
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### "Invalid API Token" Error
 - Verify your token is correct (no extra spaces)
