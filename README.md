@@ -4,6 +4,9 @@ A modern, fast, and organized todo list for Instructure Canvas LMS.
 
 Better Canvas Todo List fetches and displays all your assignments across all courses in one streamlined view, with automatic refreshing and a modern, responsive UI.
 
+<img width="1447" height="883" alt="image" src="https://github.com/user-attachments/assets/31b686a0-0a79-4327-95b2-4c55910d705e" />
+
+
 ## Features
 
 - **Consolidated View**: See todos from each of your courses in one place
