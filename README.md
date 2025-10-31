@@ -109,8 +109,6 @@ npm run deploy
 - **AWS S3**: Upload the `build/` folder contents
 - **Any static host**: Serve the `build/` directory
 
-## Usage
-
 ## Technology Stack
 
 - **Frontend**: React
@@ -118,29 +116,6 @@ npm run deploy
 - **API**: Canvas LMS REST API
 - **Build Tool**: Create-React-App
 - **Deployment**: Static hosting (GitHub Pages, Netlify, etc.)
-
-## Troubleshooting
-
-### "Invalid API Token" Error
-- Verify your token is correct (no extra spaces)
-- Check that your token hasn't expired
-- Ensure the token has required permissions
-- Generate a new token if needed
-
-### Todos Not Loading
-- Verify your Canvas URL is correct (include `https://`)
-- Check your internet connection
-- Ensure you're not behind a restrictive firewall
-- Try refreshing your Canvas API token
-
-### Missing Assignments
-- Check if assignments are actually in your Canvas todo list
-- Some assignment types may not appear in the todo API
-- Verify your courses are active and not concluded
-
-### CORS Issues (Development)
-- CORS shouldn't be an issue since API calls are made from your browser
-- If you encounter CORS errors, check your Canvas instance settings
 
 ## Contributing
 
